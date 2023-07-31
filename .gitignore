@@ -1,0 +1,5 @@
+# Project exclude paths
+/.gradle/
+/File Type Analyzer (Java)/task/build/
+/File Type Analyzer (Java)/task/out/
+/File Type Analyzer (Java)/task/out/production/classes/
